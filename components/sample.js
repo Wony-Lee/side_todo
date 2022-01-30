@@ -2,7 +2,7 @@ import React from 'react'
 import styled from '@emotion/styled'
 
 const SampleLayout = styled.div`
-    border:1px solid;
+    border:1px solid red;
 `;
 
 const Sample = () => {
