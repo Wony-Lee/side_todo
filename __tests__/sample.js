@@ -4,7 +4,7 @@
  */
 
 import React from "react";
-import { render, screen } from "@testing-library/react";
+import { userEvent, fireEvent, render, screen } from "@testing-library/react";
 import Sample from '@/components/Sample';
 
 describe("this is sample test", () => {
